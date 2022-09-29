@@ -1,0 +1,62 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.cuerpo{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer{
+    padding: 1% 1%;
+    color: black;
+    background-color: #b7c2ce;
+    width: 100%;
+}
+.dentro-footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.productos{
+
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.subtitulo{
+
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.subtitulo2{
+
+    text-align: center;
+
+}
+
+.carta{
+
+    margin-bottom: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
